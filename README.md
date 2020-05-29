@@ -1,4 +1,7 @@
 # Docker-to-Kubernetes-Migration
+
+https://www.youtube.com/watch?v=tOlrbXDVvSs&list=PLxv9HL8TPbSxBEjcHPwTjvYBfioVmtT1W
+
 complete guide to move application docker-compose to kubernetes 
 This series of articles talks about the ways to move your applications running on docker-compose to a Kubernetes cluster on GCP (Google Cloud Platform). The audience of these articles are both the system admins and the application developers. The articles guide the system/cluster admins on how to migrate the various infrastructure services from docker-compose to the kubernetes cluster. It also guides the developers on how to migrate their applications from docker-compose to Kubernetes. All the steps are performed on an actual production setup, running applications on docker-compose. So this is a real deal!
 
